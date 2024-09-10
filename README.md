@@ -12,7 +12,7 @@ Para visualizar o projeto em sua máquina local, siga os passos abaixo:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/VictorHSCosta/Primeiro-Projetinho-completo-em-css
+   git clone https://github.com/VictorHSCosta/Primeiro-Projetinho-completo-em-css
 2.**Navegue até o diretório do projeto**:
   ```bash
     cd seu-repositorio
